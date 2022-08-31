@@ -1,27 +1,27 @@
-## First Name Last Name
+## Elijah Gilbert
 
-### Term Year 
+### Fall 2022
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course 1
+-   ***Analytic Geometry and Calculus***
 
-- Course 2
+-   ***Introduction to Computation and Programming***
 
-- Course 3
+-   ***Introduction to Data Science***
 
-- Course 4
+-   ***Python For Data Analytics***
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am *passionate about*:
 
-- Thing 1
+-   **Video games**
 
-- Thing 2
+-   **Spending time with friends**
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+-   **Watch anime using:** <https://www.crunchyroll.com/>
 
-***
+------------------------------------------------------------------------
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/31
