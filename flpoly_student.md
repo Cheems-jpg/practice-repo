@@ -20,7 +20,7 @@ I am *passionate about*:
 
 -   **Spending time with friends**
 
--   **Watch anime using:** <https://www.crunchyroll.com/>
+-   [**Watch anime using:**](https://www.crunchyroll.com/)
 
 ------------------------------------------------------------------------
 
